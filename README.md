@@ -334,14 +334,14 @@ Windows                  6 hrs 52 mins       ███████████�
 <div align="center">
 
 <!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/githubgif.gif" />
+<!-- <img width="36%" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/githubgif.gif" /> -->
 
 <!-- first form 第一个表格 -->
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
-</table>
+</table> -->
 
 <!-- second form 第二个表格 -->
 <table>
