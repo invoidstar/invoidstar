@@ -295,10 +295,10 @@ Windows                  50 mins             ███████████�
 -->
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
 
 <!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+<!-- <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
@@ -308,17 +308,17 @@ Windows                  50 mins             ███████████�
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/html.webp">
+<!-- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/invoidstar/invoidstar/assets/images/github.webp"> -->
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
