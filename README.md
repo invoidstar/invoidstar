@@ -28,10 +28,10 @@ I enjoy exploring how multimodal understanding can lead to grounded robotic beha
 ## 01 / Research Focus
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/research-mobile-dark.svg" />
-  <source media="(max-width: 640px)" srcset="assets/research-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg" />
-  <img src="assets/research-light.svg" width="100%" alt="Illustrated cards: Vision-Language-Action learning, action-conditioned world models, robust and reproducible robot learning" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/research-focus-mobile-dark.svg" />
+  <source media="(max-width: 640px)" srcset="assets/research-focus-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-focus-dark.svg" />
+  <img src="assets/research-focus-light.svg" width="100%" alt="Illustrated cards: Vision-Language-Action learning, action-conditioned world models, robust and reproducible robot learning" />
 </picture>
 
 **Vision-Language-Action Learning** — Learning robot policies that connect observations, language instructions and actions, with a focus on temporal memory, task-stage understanding and grounded action representations.
@@ -71,10 +71,10 @@ A living research map of VLA and world-action models, connecting papers, benchma
 ## 03 / Side Projects
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/side-projects-mobile-dark.svg" />
-  <source media="(max-width: 640px)" srcset="assets/side-projects-mobile-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="assets/side-projects-dark.svg" />
-  <img src="assets/side-projects-light.svg" width="100%" alt="Illustrated creative tools: Color Matcher and Pattern Layout Studio" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/side-projects-gallery-mobile-dark.svg" />
+  <source media="(max-width: 640px)" srcset="assets/side-projects-gallery-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/side-projects-gallery-dark.svg" />
+  <img src="assets/side-projects-gallery-light.svg" width="100%" alt="Illustrated creative tools: Color Matcher and Pattern Layout Studio" />
 </picture>
 
 **[Color Matcher](https://github.com/invoidstar/color-matcher)** — A browser-based color matching workspace with palette comparison, region editing and export. [Try it online ↗](https://invoidstar.github.io/color-matcher/)

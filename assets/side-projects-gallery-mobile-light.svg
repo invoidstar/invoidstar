@@ -4,7 +4,7 @@
  <rect x="17" y="11" width="686" height="222" rx="22" fill="#FFFFFF" stroke="#DDD8E9" stroke-width="1.45"/>
   <rect x="37" y="32" width="36" height="25" rx="12.5" fill="#F1E9FA"/>
   <text x="55" y="50" fill="#695B9B" font-size="14" font-weight="760" text-anchor="middle">01</text>
-  <text x="88" y="49" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">PALETTE & REGION EDITING</text>
+  <text x="88" y="49" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">PALETTE &amp; REGION EDITING</text>
   <text x="44" y="124" fill="#2A283A" font-size="39" font-weight="770" letter-spacing="-1.8">Color Matcher</text>
   <text x="46" y="161" fill="#777188" font-size="19">Illustration color matching</text>
   <path d="M44 188H428" stroke="#DDD8E9" stroke-width="1.3"/>
@@ -22,7 +22,7 @@
   <rect x="17" y="250" width="686" height="222" rx="22" fill="#FFFFFF" stroke="#DDD8E9" stroke-width="1.45"/>
   <rect x="37" y="271" width="36" height="25" rx="12.5" fill="#F1E9FA"/>
   <text x="55" y="289" fill="#695B9B" font-size="14" font-weight="760" text-anchor="middle">02</text>
-  <text x="88" y="288" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">IMAGE PARTS & PAGE PACKING</text>
+  <text x="88" y="288" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">IMAGE PARTS &amp; PAGE PACKING</text>
   <text x="44" y="363" fill="#2A283A" font-size="34" font-weight="770" letter-spacing="-1.1">Pattern Layout Studio</text>
   <text x="46" y="400" fill="#777188" font-size="19">Part extraction and print layout</text>
   <path d="M44 427H428" stroke="#DDD8E9" stroke-width="1.3"/>
