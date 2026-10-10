@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="366" viewBox="0 0 1200 366" role="img" aria-label="Three research interests: VLA learning, action-conditioned world models, and reliable robot learning">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBFAFD"/><stop offset="1" stop-color="#F3F0F9"/></linearGradient></defs>
+ <rect width="1200" height="366" rx="25" fill="url(#bg)"/>
+ <g>
+    <rect x="12" y="13" width="380" height="340" rx="23" fill="#FFFFFF" stroke="#E2DDEC" stroke-width="1.5"/>
+    <rect x="31" y="30" width="285" height="30" rx="15" fill="#F5F2FA"/>
+    <text x="48" y="50" fill="#816CB9" font-size="13.5" font-weight="750" letter-spacing=".8">01 / VISION–LANGUAGE–ACTION</text><g transform="translate(202,164) scale(.95)"><g>
+ <path d="M-55 -21L-16 21M55 -21L16 21M0 65V33" fill="none" stroke="#A69ADB" stroke-width="2.5" stroke-dasharray="5 7" opacity=".85"/>
+ <circle cx="-55" cy="-37" r="29" fill="#EDE8F8" stroke="#A69ADB" stroke-width="1.7"/><text x="-55" y="-30" font-size="22" text-anchor="middle" font-weight="740" fill="#816CB9">V</text><circle cx="56" cy="-37" r="29" fill="#EDE8F8" stroke="#A69ADB" stroke-width="1.7"/><text x="56" y="-30" font-size="22" text-anchor="middle" font-weight="740" fill="#816CB9">L</text><circle cx="0" cy="66" r="29" fill="#EDE8F8" stroke="#A69ADB" stroke-width="1.7"/><text x="0" y="73" font-size="22" text-anchor="middle" font-weight="740" fill="#816CB9">A</text>
+ <rect x="-49" y="-2" width="98" height="45" rx="12" fill="#FFFFFF" stroke="#816CB9" stroke-width="1.8"/>
+ <text x="0" y="26" text-anchor="middle" fill="#2C273C" font-size="18" font-weight="700">POLICY</text>
+ <circle cx="-101" cy="42" r="3" fill="#A69ADB"/><circle cx="105" cy="-49" r="4" fill="#A69ADB"/>
+ </g></g>
+     <path d="M38 259H366" stroke="#E2DDEC" stroke-width="1.2"/>
+     <text x="38" y="299" fill="#2C273C" font-size="29.5" font-weight="750" letter-spacing="-.5">VLA Learning</text>
+     <text x="39" y="332" fill="#767085" font-size="16.5">Perception · language · action</text>
+     </g><g>
+    <rect x="408" y="13" width="380" height="340" rx="23" fill="#FFFFFF" stroke="#E2DDEC" stroke-width="1.5"/>
+    <rect x="427" y="30" width="285" height="30" rx="15" fill="#F5F2FA"/>
+    <text x="444" y="50" fill="#816CB9" font-size="13.5" font-weight="750" letter-spacing=".8">02 / ACTION-CONDITIONED DYNAMICS</text><g transform="translate(598,164) scale(.95)"><g>
+ <rect x="-111" y="-57" width="83" height="98" rx="13" fill="#E8F1FA" stroke="#D8D0E9" stroke-width="1.7"/>
+ <rect x="25" y="-57" width="87" height="98" rx="13" fill="#E6F4F0" stroke="#D8D0E9" stroke-width="1.7"/>
+ <path d="M-91 8H-47M-69 -15V24" stroke="#816CB9" stroke-width="4" stroke-linecap="round"/>
+ <circle cx="-69" cy="-15" r="12" fill="#FFFFFF" stroke="#816CB9" stroke-width="3"/>
+ <path d="M46 17L69 -8L91 4M69 -8L78 -26" stroke="#816CB9" stroke-width="5.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="69" cy="-8" r="7" fill="#FFFFFF" stroke="#816CB9" stroke-width="2"/>
+ <path d="M-22 -8H19M8 -17L19 -8L8 1" stroke="#816CB9" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+ <path d="M-109 56H111" stroke="#D8D0E9" stroke-width="1.5"/>
+ <text x="-70" y="77" text-anchor="middle" fill="#767085" font-size="14" font-weight="660">STATE</text>
+ <text x="70" y="77" text-anchor="middle" fill="#767085" font-size="14" font-weight="660">EFFECT</text>
+ </g></g>
+     <path d="M434 259H762" stroke="#E2DDEC" stroke-width="1.2"/>
+     <text x="434" y="299" fill="#2C273C" font-size="29.5" font-weight="750" letter-spacing="-.5">World Models</text>
+     <text x="435" y="332" fill="#767085" font-size="16.5">State · change · prediction</text>
+     </g><g>
+    <rect x="804" y="13" width="380" height="340" rx="23" fill="#FFFFFF" stroke="#E2DDEC" stroke-width="1.5"/>
+    <rect x="823" y="30" width="285" height="30" rx="15" fill="#F5F2FA"/>
+    <text x="840" y="50" fill="#816CB9" font-size="13.5" font-weight="750" letter-spacing=".8">03 / ROBUST & REPRODUCIBLE</text><g transform="translate(994,164) scale(.95)"><g>
+ <circle cx="0" cy="-7" r="77" stroke="#D8D0E9" stroke-width="1.3" fill="#EDE8F8" opacity=".8"/>
+ <path d="M0 -63L53 -46V-8C53 36 25 62 0 73C-26 62 -53 36 -53 -8V-46Z" fill="#FFFFFF" stroke="#816CB9" stroke-width="2.6"/>
+ <path d="M-27 -3L-7 17L29 -23" stroke="#816CB9" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+ <path d="M-104 -53L-84 -33 M80 46L104 69M-94 53L-83 42M84 -56L99 -73" stroke="#A69ADB" stroke-width="2.4" opacity=".75"/>
+ <g fill="#A69ADB"><circle cx="-91" cy="-12" r="4"/><circle cx="91" cy="14" r="4"/><circle cx="23" cy="-93" r="3.6"/></g>
+ </g></g>
+     <path d="M830 259H1158" stroke="#E2DDEC" stroke-width="1.2"/>
+     <text x="830" y="299" fill="#2C273C" font-size="29.5" font-weight="750" letter-spacing="-.5">Reliable Learning</text>
+     <text x="831" y="332" fill="#767085" font-size="16.5">Robustness · evaluation · tools</text>
+     </g>
+ </svg>

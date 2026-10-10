@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="491" viewBox="0 0 720 491" role="img" aria-label="Side projects: Color Matcher and Pattern Layout Studio">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF9FD"/><stop offset="1" stop-color="#F3F1F9"/></linearGradient></defs>
+ <rect width="720" height="491" rx="23" fill="url(#bg)"/>
+ <rect x="17" y="11" width="686" height="222" rx="22" fill="#FFFFFF" stroke="#DDD8E9" stroke-width="1.45"/>
+  <rect x="37" y="32" width="36" height="25" rx="12.5" fill="#F1E9FA"/>
+  <text x="55" y="50" fill="#695B9B" font-size="14" font-weight="760" text-anchor="middle">01</text>
+  <text x="88" y="49" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">PALETTE & REGION EDITING</text>
+  <text x="44" y="124" fill="#2A283A" font-size="39" font-weight="770" letter-spacing="-1.8">Color Matcher</text>
+  <text x="46" y="161" fill="#777188" font-size="19">Illustration color matching</text>
+  <path d="M44 188H428" stroke="#DDD8E9" stroke-width="1.3"/>
+  <text x="46" y="215" fill="#8272B5" font-size="15" font-weight="750" letter-spacing="1.1">BUILD  /  DESIGN  /  EXPLORE</text>
+  <g>
+ <rect x="498" y="65" width="146" height="150" rx="18" fill="#FFFFFF" stroke="#DDD8E9" stroke-width="1.6"/>
+ <rect x="510" y="78" width="120" height="76" rx="10" fill="#F1E9FA"/>
+ <path d="M510 133L538 105L565 126L582 110L630 154H510Z" fill="#A397D3" opacity=".40"/>
+ <circle cx="600" cy="101" r="13" fill="#F9E8DF"/>
+ <rect x="511" y="170" width="19" height="23" rx="5" fill="#A397D3" stroke="#DDD8E9" stroke-width=".7"/><rect x="534" y="170" width="19" height="23" rx="5" fill="#E1F3EE" stroke="#DDD8E9" stroke-width=".7"/><rect x="557" y="170" width="19" height="23" rx="5" fill="#F9E8DF" stroke="#DDD8E9" stroke-width=".7"/><rect x="580" y="170" width="19" height="23" rx="5" fill="#E4EDF8" stroke="#DDD8E9" stroke-width=".7"/><rect x="603" y="170" width="19" height="23" rx="5" fill="#F1E9FA" stroke="#DDD8E9" stroke-width=".7"/>
+ <path d="M478 100L493 79L504 90L488 112" fill="#8272B5" opacity=".63"/>
+ <circle cx="492" cy="89" r="5.5" fill="#FFFFFF" stroke="#8272B5" stroke-width="2"/>
+ <circle cx="651" cy="55" r="5" fill="#A397D3"/>
+ </g>
+  <rect x="17" y="250" width="686" height="222" rx="22" fill="#FFFFFF" stroke="#DDD8E9" stroke-width="1.45"/>
+  <rect x="37" y="271" width="36" height="25" rx="12.5" fill="#F1E9FA"/>
+  <text x="55" y="289" fill="#695B9B" font-size="14" font-weight="760" text-anchor="middle">02</text>
+  <text x="88" y="288" fill="#8272B5" font-size="14" font-weight="750" letter-spacing="1.3">IMAGE PARTS & PAGE PACKING</text>
+  <text x="44" y="363" fill="#2A283A" font-size="34" font-weight="770" letter-spacing="-1.1">Pattern Layout Studio</text>
+  <text x="46" y="400" fill="#777188" font-size="19">Part extraction and print layout</text>
+  <path d="M44 427H428" stroke="#DDD8E9" stroke-width="1.3"/>
+  <text x="46" y="454" fill="#8272B5" font-size="15" font-weight="750" letter-spacing="1.1">BUILD  /  DESIGN  /  EXPLORE</text>
+  <g>
+ <rect x="476" y="293" width="96" height="122" rx="9" fill="#FFFFFF" stroke="#A397D3" stroke-width="1.8" transform="rotate(-9 524 354)"/>
+ <path d="M500 333L530 315L552 346L543 386L509 374Z" fill="#E1F3EE" stroke="#8272B5" stroke-width="2" stroke-dasharray="5 3"/>
+ <rect x="564" y="285" width="108" height="145" rx="10" fill="#FFFFFF" stroke="#8272B5" stroke-width="1.8"/>
+ <path d="M579 302H657M579 412H657" stroke="#DDD8E9" stroke-width="1.6"/>
+ <rect x="581" y="315" width="46" height="33" rx="5" fill="#E4EDF8" stroke="#A397D3" stroke-width="1.3"/>
+ <rect x="632" y="315" width="23" height="49" rx="5" fill="#F9E8DF" stroke="#A397D3" stroke-width="1"/>
+ <path d="M586 369L616 357L627 386L612 402L586 391Z" fill="#E1F3EE" stroke="#8272B5" stroke-width="1.5"/>
+ <path d="M546 433H569m-8 -7l8 7l-8 7" stroke="#8272B5" stroke-width="2.5" fill="none"/>
+ </g>
+  
+ </svg>
