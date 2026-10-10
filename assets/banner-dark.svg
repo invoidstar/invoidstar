@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+  <title id="title">Invoidstar — Research and Open Source</title>
+  <desc id="desc">Minimal geometric orbit motif. Embodied intelligence, vision-language-action and robot learning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1C1A27"/><stop offset="100%" stop-color="#29243A"/></linearGradient>
+    <radialGradient id="glow" cx="75%" cy="38%" r="62%"><stop offset="0%" stop-color="#78699F" stop-opacity="0.20"/><stop offset="100%" stop-color="#78699F" stop-opacity="0"/></radialGradient>
+    <clipPath id="clip"><rect width="1200" height="290" rx="22"/></clipPath>
+  </defs>
+  <rect width="1200" height="290" rx="22" fill="url(#bg)"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="290" fill="url(#glow)"/>
+    <path d="M890 0 V290 M965 0 V290 M0 263 H1200" stroke="#776A92" opacity=".14"/>
+    <g fill="none" stroke="#776A92" stroke-width="1.35" opacity="0.64">
+      <circle cx="1010" cy="146" r="107"/>
+      <circle cx="1010" cy="146" r="68"/>
+      <circle cx="1010" cy="146" r="29"/>
+      <ellipse cx="1010" cy="146" rx="180" ry="50" transform="rotate(-32 1010 146)" stroke="#B5A3E0" stroke-width="1.8"/>
+    </g>
+    <circle cx="1010" cy="146" r="4.1" fill="#B5A3E0" opacity=".75"/>
+    <circle cx="1125" cy="61" r="5.5" fill="#D2C2F6"/>
+    <circle cx="862" cy="239" r="3.6" fill="#78699F"/>
+    <path d="M827 64 h14 m-7 -7 v14" stroke="#B5A3E0" stroke-width="1.8" stroke-linecap="round" opacity=".66"/>
+    <path d="M1154 251 h12 m-6 -6 v12" stroke="#B5A3E0" stroke-width="1.5" stroke-linecap="round" opacity=".58"/>
+    <g opacity=".32" fill="#B5A3E0">
+      <circle cx="920" cy="37" r="2.2"/>
+      <circle cx="1154" cy="208" r="2.2"/>
+      <circle cx="836" cy="267" r="2.2"/>
+    </g>
+  </g>
+  <text x="76" y="69" fill="#C1B5D8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="4.4">RESEARCH  /  OPEN SOURCE</text>
+      <text x="72" y="184" fill="#F4F1F8" font-family="Arial,Helvetica,sans-serif" font-size="103" font-weight="750" letter-spacing="-5.9">Invoidstar<tspan fill="#B5A3E0">.</tspan></text>
+      <rect x="76" y="209" width="64" height="2.4" rx="1" fill="#B5A3E0"/>
+      <text x="76" y="253" fill="#C4BBD3" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="550" letter-spacing="2.0">EMBODIED INTELLIGENCE  /  VISION–LANGUAGE–ACTION  /  ROBOT LEARNING</text>
+</svg>
