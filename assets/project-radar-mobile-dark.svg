@@ -11,7 +11,7 @@
  <rect width="720" height="490" fill="url(#bg)"/>
  <ellipse cx="615" cy="337" rx="230" ry="290" fill="url(#glow)"/>
  <rect width="720" height="490" fill="url(#grid)"/>
- <text x="46" y="55" fill="#D2D6FF" font-size="16" font-weight="730" letter-spacing="2">02 / OPEN RESEARCH RESOURCE</text>
+ <text x="46" y="55" fill="#D2D6FF" font-size="16" font-weight="730" letter-spacing="2">03 / OPEN RESEARCH RESOURCE</text>
  <text x="42" y="134" fill="#F6F4FF" font-size="72" font-weight="770" letter-spacing="-2.7">VLA-Radar</text>
  <text x="46" y="174" fill="#C6C5DF" font-size="24">A living map of VLA research.</text>
  <path d="M46 204H674" stroke="#4C4E72" stroke-width="1.4"/>

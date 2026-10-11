@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="490" viewBox="0 0 720 490" role="img" aria-label="ElysiaCV: modular computer vision training framework for classification, detection, and segmentation">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1A1B2A"/><stop offset="1" stop-color="#24253B"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#878CC5" stop-opacity=".21"/><stop offset="1" stop-color="#878CC5" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#4C4E72" opacity=".18" stroke-width=".8"/></pattern>
+ <clipPath id="clip"><rect width="720" height="490" rx="23"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="720" height="490" fill="url(#bg)"/>
+ <ellipse cx="615" cy="337" rx="230" ry="290" fill="url(#glow)"/>
+ <rect width="720" height="490" fill="url(#grid)"/>
+ 
+ <text x="46" y="55" fill="#D2D6FF" font-size="16" font-weight="730" letter-spacing="2">02 / CV INFRASTRUCTURE</text>
+ <text x="42" y="134" fill="#F6F4FF" font-size="72" font-weight="770" letter-spacing="-2.7">ElysiaCV</text>
+ <text x="46" y="174" fill="#C6C5DF" font-size="23.5">One framework. Many vision tasks.</text>
+ <path d="M46 204H674" stroke="#4C4E72" stroke-width="1.4"/>
+ <g>
+ <rect x="40" y="254" width="640" height="200" rx="21" fill="#2B2D43" stroke="#4C4E72" stroke-width="1.2"/>
+ <path d="M39 302H681" stroke="#4C4E72" stroke-width="1.1"/><circle cx="62" cy="277" r="4.3" fill="#878CC5"/><circle cx="80" cy="277" r="4.3" fill="#335750"/><circle cx="98" cy="277" r="4.3" fill="#4B415F"/><text x="139" y="283" fill="#A2A5CC" font-size="14.5" font-weight="750" letter-spacing="1.35">ONE ENGINE  /  THREE TASKS</text><rect x="65" y="319" width="182" height="119" rx="12" fill="#25283D" stroke="#4C4E72" stroke-width="1.1"/><rect x="73" y="327" width="166" height="91" rx="7" fill="#343650"/>
+   <circle cx="104" cy="356" r="14" fill="#335750" stroke="#878CC5" stroke-width="1.1"/>
+   <path d="M95 364L102 350L114 361" stroke="#ADB5FF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+   <rect x="131" y="343" width="79.89999999999999" height="8" rx="4" fill="#ADB5FF" opacity=".9"/><rect x="131" y="358" width="52.64000000000001" height="8" rx="4" fill="#878CC5" opacity=".5"/><rect x="131" y="373" width="31.96" height="8" rx="4" fill="#878CC5" opacity=".5"/>
+   <text x="156" y="431" fill="#D2D6FF" font-size="12.7" font-weight="750" text-anchor="middle" letter-spacing=".5">CLASSIFICATION</text><rect x="265" y="319" width="182" height="119" rx="12" fill="#25283D" stroke="#4C4E72" stroke-width="1.1"/><rect x="273" y="327" width="166" height="91" rx="7" fill="#343650"/>
+   <path d="M279 410L318 351L349 410Z" fill="#335750" opacity=".8"/>
+   <circle cx="410" cy="349" r="12" fill="#695145" opacity=".85"/>
+   <rect x="302" y="342" width="55" height="67" rx="3" fill="none" stroke="#ADB5FF" stroke-width="2" stroke-dasharray="5 3"/>
+   <rect x="385" y="337" width="36" height="31" rx="3" fill="none" stroke="#878CC5" stroke-width="2"/>
+   <text x="356" y="431" fill="#D2D6FF" font-size="12.7" font-weight="750" text-anchor="middle" letter-spacing=".5">DETECTION</text><rect x="465" y="319" width="182" height="119" rx="12" fill="#25283D" stroke="#4C4E72" stroke-width="1.1"/><rect x="473" y="327" width="51.333333333333336" height="39.5" rx="6" fill="#335750" stroke="#4C4E72" stroke-width=".6"/><rect x="530.3333333333334" y="327" width="51.333333333333336" height="39.5" rx="6" fill="#4B415F" stroke="#4C4E72" stroke-width=".6"/><rect x="587.6666666666666" y="327" width="51.333333333333336" height="39.5" rx="6" fill="#343650" stroke="#4C4E72" stroke-width=".6"/><rect x="473" y="372.5" width="51.333333333333336" height="39.5" rx="6" fill="#4B415F" stroke="#4C4E72" stroke-width=".6"/><rect x="530.3333333333334" y="372.5" width="51.333333333333336" height="39.5" rx="6" fill="#343650" stroke="#4C4E72" stroke-width=".6"/><rect x="587.6666666666666" y="372.5" width="51.333333333333336" height="39.5" rx="6" fill="#335750" stroke="#4C4E72" stroke-width=".6"/><path d="M486 372.5Q556 326 627 375.5" fill="none" stroke="#ADB5FF" stroke-width="2.6" stroke-linecap="round"/><text x="556" y="431" fill="#D2D6FF" font-size="12.7" font-weight="750" text-anchor="middle" letter-spacing=".5">SEGMENTATION</text></g>
+ <text x="46" y="473" fill="#A2A5CC" font-size="15" font-weight="750" letter-spacing="1.7">CLASSIFY   /   DETECT   /   SEGMENT</text>
+</g>
+<rect x=".75" y=".75" width="718.5" height="488.5" rx="22.5" stroke="#4C4E72" stroke-width="1.5" fill="none"/>
+</svg>

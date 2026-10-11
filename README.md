@@ -55,6 +55,19 @@ I enjoy exploring how multimodal understanding can lead to grounded robotic beha
 
 A modular research framework for VLA training, fine-tuning, data processing and robot benchmark evaluation. Designed for reusable engineering and reproducible experiments. **[Explore the code →](https://github.com/invoidstar/ElysiaRobot)**
 
+<a href="https://github.com/invoidstar/ElysiaCV">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/project-cv-mobile-dark.svg" />
+  <source media="(max-width: 640px)" srcset="assets/project-cv-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-cv-dark.svg" />
+  <img src="assets/project-cv-light.svg" width="100%" alt="ElysiaCV — unified computer vision training framework for classification, detection and segmentation" />
+</picture>
+</a>
+
+**[ElysiaCV](https://github.com/invoidstar/ElysiaCV)** · Computer Vision Training Infrastructure
+
+A modular framework for image classification, object detection and semantic segmentation. It brings model plugins, reusable components, data pipelines and a shared training engine into one extensible workflow. **[Explore the code →](https://github.com/invoidstar/ElysiaCV)**
+
 <a href="https://github.com/invoidstar/VLA-Radar">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/project-radar-mobile-dark.svg" />
