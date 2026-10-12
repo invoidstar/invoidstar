@@ -81,6 +81,19 @@ A modular framework for image classification, object detection and semantic segm
 
 A living research map of VLA and world-action models, connecting papers, benchmark settings, evidence, reading notes and research updates. **[Visit the website →](https://invoidstar.github.io/VLA-Radar/)**
 
+<a href="https://github.com/invoidstar/ElysiaTools">
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/project-tools-mobile-dark.svg" />
+  <source media="(max-width: 640px)" srcset="assets/project-tools-mobile-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-tools-dark.svg" />
+  <img src="assets/project-tools-light.svg" width="100%" alt="ElysiaTools — academic research toolkit with conference explorer, journal explorer, saved items and deadline calendar" />
+</picture>
+</a>
+
+**[ElysiaTools](https://github.com/invoidstar/ElysiaTools)** · Open Academic Research Toolkit
+
+A free, open-source toolkit for discovering research conferences, comparing journals, following submission deadlines and organizing personal academic collections. It combines source-linked conference and journal data with calendars and lightweight research utilities. **[Explore the repository →](https://github.com/invoidstar/ElysiaTools)**
+
 ## 03 / Side Projects
 
 <picture>
